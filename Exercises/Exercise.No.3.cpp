@@ -9,7 +9,7 @@ int main() {
     const double INCHES_PER_MILE = 63360; 
     const double KM_PER_MILE = 1.60934; 
 
-    double km = 1.00; // The number of km to convert to miles
+    double km = 1.00; 
 
     double cm = km / KM_PER_MILE * 100 * CM_PER_INCH; 
     double inches = cm / CM_PER_INCH; 
