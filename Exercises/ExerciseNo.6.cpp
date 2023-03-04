@@ -1,3 +1,8 @@
+//what is the percent error in each of the following approximations to pi? 
+//a) 22/7 , b) 355/113.
+
+
+
 #include <iostream>
 #include <cmath>
 
