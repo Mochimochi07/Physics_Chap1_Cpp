@@ -10,6 +10,11 @@ Its a fun adventure if people would also try coding with C++ and physics.
 Besides i would like the fact that this can be more of a homework for me to test my C++ skills.
 Golang's type of coding kinda confuses me alot which was more boring to code before.
 Yeah, thats the disadvantages of using frameworks though.
-The use of it kinda tells me to limit the fundamentals of programming
+The use of it kinda tells me to limit the fundamentals of programming.
+
+(ALREADY DONE)
+
+The Exercises are hard to compute.
+Not to mention the vector problems are needed to be plotted in a paper so i'll stick up to a few.
 
 
